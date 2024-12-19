@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(76, 66, 66) ;
+    color: white ;
+    padding: 30px ;
+    text-align: center ;
+
+}
+h2{
+    color: rgb(196, 193, 58) ;
+}
+a{
+    text-decoration: none ;
+    color: blue ;
+}
+a:link{
+    color: blue ;
+
+}
+a:active{
+    color:blue ;
+}
+.profile{
+    width: 50% ;
+    height: 9vh ;
+    background-color: grey ;
+    border-radius: 0.8em ;
+    margin:auto ;
+
+}
+.profile p{
+    text-align: center ;
+    padding: 1em ;
+    color: white ;
+    font-weight: bold ;
+}
+img{
+    width: 10em ;
+    height: 10em ;
+    border-radius: 50% ;
+}
